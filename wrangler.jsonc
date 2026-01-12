@@ -26,5 +26,15 @@
       "binding": "KV",
       "id": "204daeae1e334fd499b54f17096a3aa8"
     }
+  ],
+  "routes": [
+    {
+      "pattern": "rcs.to",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.rcs.to",
+      "custom_domain": true
+    }
   ]
 }
